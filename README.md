@@ -136,12 +136,17 @@ print(x.text)
 
 ## 3、代码的提交
   1》cd 进项目
+  
   2》git status 查看项目状态
+  
   3》git add xx
+  
   4》git commit -m "提交备注"
+  
   5》git push
 
 ## 4、代码更新
  1》git fetch 可拉取新分支
+ 
  2》git pull 更新
 
